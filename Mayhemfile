@@ -1,4 +1,4 @@
-image: eddymul/intel-safestringlib-libfuzzer
+image: eddymul/safestringlib
 project: intel
 target: safestringlib-wcscat
 cmds:
