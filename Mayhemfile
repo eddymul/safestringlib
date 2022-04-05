@@ -1,0 +1,5 @@
+image: eddymul/safestringlib
+project: intel
+target: safestringlib-wcscat
+cmds:
+  - cmd: /home/safestringlib/libfuzzer/wcscat_target.out
